@@ -1,4 +1,5 @@
-
+## 🎮 Play a Retro Game Here!
+[Click to Play!](https://sarvadnya2004.github.io/retro-game/)
 
 # 💫About Me :
 🎓 Aspiring Data Scientist
