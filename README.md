@@ -1,5 +1,3 @@
-## 🎮 Play a Retro Game Here!
-[Click to Play!](https://sarvadnya2004.github.io/retro-game/)
 
 # 💫About Me :
 🎓 Aspiring Data Scientist
@@ -9,6 +7,12 @@
 ✨ Passionate about Python
 <br>
 💡 Fun Fact :- I get emotionally attach to my projects.
+
+### 📅 My Coding Journey  
+- 2021: Started coding with c
+- 2023: Built my first python project  
+- 2024: Became a Data science enthusiast  
+
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 <!-- Congrats! You've found a secret message hidden in the code! -->
@@ -38,7 +42,9 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=sarvdnya2004&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=sarvdnya2004&icon=0&color=0)](https://visitcount.itsvg.in)
+
