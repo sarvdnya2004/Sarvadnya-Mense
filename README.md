@@ -11,7 +11,7 @@
 ### 📅 My Coding Journey  
 - 2021: Started coding with c
 - 2023: Built my first python project  
-- 2024: Became a Data science enthusiast  
+- 2024: Became a Machine Learning enthusiast  
 
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
