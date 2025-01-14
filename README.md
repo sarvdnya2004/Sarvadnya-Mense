@@ -1,7 +1,10 @@
 # 💫About Me :
 🎓 Aspiring Data Scientist
+<br>
 🌟 Currently focusing on Machine Learning
+<br>
 ✨ Passionate about Python
+<br>
 💡 Fun Fact: I get emotionally attach to my projects.
 
 ## 🌐Socials
