@@ -5,7 +5,7 @@
 <br>
 ✨ Passionate about Python
 <br>
-💡 Fun Fact: I get emotionally attach to my projects.
+💡 Fun Fact :- I get emotionally attach to my projects.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarvadnya-mense-a91b11250/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/True_Economics7869/) 
