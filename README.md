@@ -1,3 +1,6 @@
+![Retro Text](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4000&pause=2000&color=00FFFF&center=true&vCenter=true&width=1000&height=80&lines=👋+Hi,+Welcome+to+my+Profile!;🌟+Keep+Exploring+to+Find+Cool+Projects!;🚀+Ready+to+Collaborate+and+Code!)
+
+
 
 # 💫About Me :
 🎓 Aspiring Data Scientist
