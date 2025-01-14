@@ -17,7 +17,7 @@
 🔗 A CNN-based app to identify potato leaf diseases!  
 
 📊 [**CareEase_Project_for_Disabled_Persons**](https://github.com/sarvdnya2004/CareEase_Project_for_Disabled_Persons.git)  
-💡 Predict trends and stats in milk production with ML!
+💡 Python-based daily planner designed for individuals with disabilities!
 
 
 ## 🌐Socials
