@@ -1,3 +1,5 @@
+![Visitor Counter](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=28b463&style=flat) 
+
 ![Retro Text](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4000&pause=2000&color=00FFFF&center=true&vCenter=true&width=1000&height=80&lines=👋+Hi,+Welcome+to+my+Profile!;🌟+Keep+Exploring+to+Find+Cool+Projects!;🚀+Ready+to+Collaborate+and+Code!)
 
 
@@ -31,7 +33,7 @@
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarvadnya-mense-a91b11250/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/True_Economics7869/) 
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 
 
