@@ -43,9 +43,8 @@
 ![sarvdnya2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvdnya2004&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <br>
 ![sarvdnya2004's Stats](https://github-readme-stats.vercel.app/api?username=sarvdnya2004&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+<br>
 ![sarvdnya2004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarvdnya2004&theme=vue-dark&hide_border=true)
-
 <hr>
 
 ## 🏆GitHub Trophies
