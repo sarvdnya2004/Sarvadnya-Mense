@@ -22,8 +22,8 @@
 <!-- Congrats! You've found a secret message hidden in the code! -->
 
 ## 🌟 Featured Projects
-🚀 [**Potato Leaves Disease Predictor**](https://github.com/sarvdnya2004/Potato_leaf_deesease_prediction.git)  
-🔗 A CNN-based app to identify potato leaf diseases!  
+🚀 [**Crop & Fertilizer Prediction System**](https://github.com/sarvdnya2004/Crop_and_fertilizer_prediction_project_Edunet_internship.git)  
+🔗 An AI-powered app to predict the best crop for your soil and recommend fertilizers!  
 
 📊 [**CareEase_Project_for_Disabled_Persons**](https://github.com/sarvdnya2004/CareEase_Project_for_Disabled_Persons.git)  
 💡 Python-based daily planner designed for individuals with disabilities!
