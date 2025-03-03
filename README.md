@@ -22,8 +22,8 @@
 <!-- Congrats! You've found a secret message hidden in the code! -->
 
 ## 🌟 Featured Projects
-🚀 [**Crop & Fertilizer Prediction System**](https://github.com/sarvdnya2004/Crop_and_fertilizer_prediction_project_Edunet_internship.git)  
-🔗 An AI-powered app to predict the best crop for your soil and recommend fertilizers!  
+🚀 [**Medical diagnosis using AI**](https://github.com/sarvdnya2004/Medical-diagnosis-using-AI.git)  
+🔗 AI-powered early detection for Lung Cancer & Heart Disease – Fast, Accurate & Life-Saving!  
 
 📊 [**CareEase_Project_for_Disabled_Persons**](https://github.com/sarvdnya2004/CareEase_Project_for_Disabled_Persons.git)  
 💡 Python-based daily planner designed for individuals with disabilities!
